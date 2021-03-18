@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @talentsoul
-- 👀 I’m interested in coding, recruting
+- 👀 I’m interested in coding, recruiting
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate 
 - 📫 reach me at arun.kumar@talentemail.com
